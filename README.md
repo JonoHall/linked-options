@@ -1,7 +1,9 @@
 # Shopify's Dawn Theme Linked Options
 Generates linked options for Shopify's Dawn theme.
 
-# Installation
+![Example](https://imgur.com/a/UXdspaj)
+
+## Installation
 1. Copy the "linked-selectors.liquid" file into the "snippets" section of your Dawn theme.
 2. Add the following to "theme.liquid" just before the </body> tag:
 
@@ -11,6 +13,6 @@ Generates linked options for Shopify's Dawn theme.
     {% endif %}
 ```
 
-# Objectives
+## Objectives
 - Automatically select an option if a variant is specified in the URL.
 - Remove the variable parameter from the URL if an invalid selection is made.
