@@ -2,7 +2,8 @@
 Generates linked options for Shopify's Dawn theme.
 
 # Installation
-Add the following to "theme.liquid" just before the </body> tag:
+1. Copy the "linked-selectors.liquid" file into the "snippets" section of your Dawn theme.
+2. Add the following to "theme.liquid" just before the </body> tag:
 
 ```
     {% if(request.page_type == 'product') %}
