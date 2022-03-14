@@ -17,6 +17,7 @@ https://user-images.githubusercontent.com/4916365/158121029-4500dbbc-95bc-4da5-8
 ```
 
 ## Objectives
+- Built in native javascript
 - Automatically select an option if a variant is specified in the URL.
 - Remove the variable parameter from the URL if an invalid selection is made.
 
@@ -33,6 +34,8 @@ This modification may contain bugs, it may stop working at any time.
 Install at your own risk, I accept no liability for any indirect or consequential loss or damage, or for any loss of data, profit, revenue or business if you install this modification.
 
 ## Say thanks!
-I spent a lot of time on this, and I'm passing this development time on to you free of charge. But if you are in the position to show a small token of thanks, click the link below. Alternatively, "Star" this project or contribute! It will motivate me to continue building/supporting this snippet.
+I spent a lot of time on this, and I'm passing this development time on to you, free of charge. However, if you are in the position to show a small token of thanks click the link below to make a small contribution.
 
 <a href="https://www.buymeacoffee.com/jonohallnz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+Alternatively, "Star" this project or contribute! It will motivate me to continue building/supporting this snippet.
