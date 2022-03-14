@@ -1,7 +1,7 @@
 # Shopify's Dawn Theme Linked Options
 Generates linked options for Shopify's Dawn theme.
 
-![Example](https://imgur.com/a/UXdspaj)
+![Example](https://i.imgur.com/OBe4KAH.gifv)
 
 ## Installation
 1. Copy the "linked-selectors.liquid" file into the "snippets" section of your Dawn theme.
