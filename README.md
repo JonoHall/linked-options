@@ -1,5 +1,7 @@
 # Shopify's Dawn Theme Linked Options (drop down boxes only!)
-Generates linked options for Shopify's Dawn theme. Please note, this works for drop down boxes only, not the default "pill" selectors.
+This snippet generates linked options for Shopify's Dawn theme. Please note, this works for drop down boxes only, not the default "pill" selectors.
+
+Development experience is required to use this snippet. This snippet is supplied "as-is", I cannot install/modify this snippet for your store. I am not personally affiliated with Shopify Inc.
 
 ### Example
 Note the Box Quantity value changes from 36 to 12.
@@ -21,21 +23,14 @@ https://user-images.githubusercontent.com/4916365/158121029-4500dbbc-95bc-4da5-8
 - Automatically select an option if a variant is specified in the URL.
 - Remove the variable parameter from the URL if an invalid selection is made.
 
-## Background
-I've run a Shopify for 5+ years and due to the nature of our products we require linked options. On our previous themes we've used a modified version of Caroline Schnapp's linked-options solution. We wanted to switch to Shopify 2.0's Dawn theme, but Caroline's solution relies on jQuery which is no longer included with Shopifies theme.
-
-Without a linked-option solution, we were unable to move forward with this upgrade. My background is in backend development (PHP etc), I had no experience in Javascript, but have worked my way through this to come up with a stop-gap solution. So if there is something that looks odd to you Javascript devs, please feel free to submit a pull request.
-
-Hopefully this can be built out and improved for those of us that require linked-options.
-
 ## Disclaimer
-This modification may contain bugs, it may stop working at any time. Please test this modification before making it live.
+This modification may contain bugs, it may stop working at any time, it is supplied completely "as-is". Please test this modification before making it live.
 
 Install at your own risk, I accept no liability for any indirect or consequential loss or damage, or for any loss of data, profit, revenue or business if you install this modification.
 
 ## Say thanks!
-I spent a lot of time on this, and I'm passing the fruits of this development time on to you, free of charge. However, if you are in the position to show a small token of thanks click the link below to make a small contribution.
+Although this snippet is completely "as-is" and free for you to use/modify, if you are in the position to show a small token of thanks click the link below.
 
 <a href="https://www.buymeacoffee.com/jonohallnz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
-Alternatively, "Star" this project or contribute! It will motivate me to continue building/supporting this snippet.
+Alternatively, "Star" this project or contribute!
