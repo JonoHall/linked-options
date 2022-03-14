@@ -19,7 +19,7 @@ https://user-images.githubusercontent.com/4916365/158121029-4500dbbc-95bc-4da5-8
 ```
 
 ## Objectives
-- Built in native javascript
+- Built from the ground up using native Javascript
 - Automatically select an option if a variant is specified in the URL.
 - Remove the variable parameter from the URL if an invalid selection is made.
 
