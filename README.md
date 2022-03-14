@@ -1,5 +1,5 @@
-# Shopify's Dawn Theme Linked Options
-Generates linked options for Shopify's Dawn theme.
+# Shopify's Dawn Theme Linked Options (drop down boxes only!)
+Generates linked options for Shopify's Dawn theme. Please note, this works for drop down boxes only, not the default "pill" selectors.
 
 ### Example
 Note the Box Quantity value changes from 36 to 12.
