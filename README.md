@@ -1,6 +1,7 @@
 # Shopify's Dawn Theme Linked Options
 Generates linked options for Shopify's Dawn theme.
 
+### Example (note the Box Quantity value changes from 36 to 12)
 https://user-images.githubusercontent.com/4916365/158121029-4500dbbc-95bc-4da5-85ea-60be14bee682.mp4
 
 ## Installation
